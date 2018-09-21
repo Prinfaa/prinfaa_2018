@@ -1,4 +1,11 @@
-再之后，你只需要将你的代码，放到库的对应的文件夹中，然后使用，git add 、git commit -m " ??" 、最后git?push?origin?master，将你的代码提交就可以了。
+一、打开git-bash.exe
+二、定位到要上传的文件的目录 例：cd /D/prinfaa_2018
+三、输入ls 查看目录下文件
+四、输入 git add 文件名 例：git add prinfaa.txt
+五、输入 git commit -m "更新说明" 例：git commit -m "第四次更新"
+六、输入 git push origin master ：上传更新
+
+git add 、git commit -m " ??" 、最后git?push?origin?master，将你的代码提交就可以了。
 
 ---------------------
 这是第三次更新
